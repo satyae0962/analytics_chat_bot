@@ -1,0 +1,13 @@
+duckdb
+langchain
+chromadb
+streamlit
+pandas
+plotly
+fastapi
+sqlalchemy
+tabulate
+uvicorn
+tqdm
+pydantic
+numpy
